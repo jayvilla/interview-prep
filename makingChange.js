@@ -19,7 +19,7 @@ would output 4-the number of ways to make 4c with those denominations
   4. 2c, 2c */
 
   const makingChanges = (amount, denominations) => {
-    /* TODO */
+    /* todo */
   };
 
   const exampleAmount = 4;
